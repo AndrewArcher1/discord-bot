@@ -70,7 +70,7 @@ client.on('guildMemberAdd', member => {
 
 });
 
-client.login('NzIyNTU3MjI4ODE2NzkzNjUy.Xukz2w.YZOmp2cjIyuQWcP9iN4hNdkVhHw');
+client.login('TOKEN HERE');
 
 
 
