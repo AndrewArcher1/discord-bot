@@ -10,5 +10,5 @@ Commands:
 
 !leave - stops playing music and make the bot leave the current voice channel
 
-!pog - posts a image in the message channel 
+ 
 
