@@ -28,9 +28,9 @@ client.on('message', message =>{
     const args = message.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
 
-    if(command === 'pog'){
+    if(command === 'nice'){
        client.commands.get('pog').execute(message,args);
-       console.log('pog worked');
+       console.log('nice worked');
     }
 
     if(command === 'scrape'){
